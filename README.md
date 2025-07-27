@@ -40,5 +40,5 @@ By employing **data-driven insights** and **strategic recommendations**, the obj
 - **Data Viusualization:** Leveraged Matplotlib library for creating charts and bars.
 - **Pandas Fundamentals-** creating various dataframes,group by functions,concate and merging,hanling NA values,read csv files etc.
 
-## Insights and Recommendations- [link]()
+### Insights and Recommendations- [link](https://github.com/sayed-m-shah/Hotels-Domain-Analysis-using-Python-main/blob/main/Insights%20and%20Recommendations.pdf)
 
