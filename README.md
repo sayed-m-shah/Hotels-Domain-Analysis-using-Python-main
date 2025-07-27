@@ -35,9 +35,10 @@ By employing **data-driven insights** and **strategic recommendations**, the obj
 - **Data Visualization** – Leveraged **Matplotlib** library to create charts and bar graphs  
 - **Pandas Fundamentals** – Creating various **DataFrames**, using **group by**, **concat** and **merge** functions, handling **NA values**, and reading CSV files efficiently  
 
-
 ## Skills Learned
 - **Python Programming:** Enhancing proficiency in Python for data analysis,cleaning ,transforamtion and visualization.
 - **Data Viusualization:** Leveraged Matplotlib library for creating charts and bars.
 - **Pandas Fundamentals-** creating various dataframes,group by functions,concate and merging,hanling NA values,read csv files etc.
+
+## Insights and Recommendations- [link]()
 
