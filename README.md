@@ -9,6 +9,8 @@ Lacking internal data expertise, they have enlisted external assistance to:
 - Devise effective strategies for **customer retention** and **revenue growth**  
 
 ---
+### LinkedIn Post - [link](https://www.linkedin.com/feed/update/urn:li:activity:7355134977266585600/)
+---
 
 ## 🎯 Project Goal  
 The goal of this project is to conduct a **comprehensive analysis** of the hotel domain using **Python**.  
@@ -41,4 +43,3 @@ By employing **data-driven insights** and **strategic recommendations**, the obj
 - **Pandas Fundamentals-** creating various dataframes,group by functions,concate and merging,hanling NA values,read csv files etc.
 
 ### Insights and Recommendations- [link](https://github.com/sayed-m-shah/Hotels-Domain-Analysis-using-Python-main/blob/main/Insights%20and%20Recommendations.pdf)
-
